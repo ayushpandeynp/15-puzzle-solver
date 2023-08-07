@@ -1,4 +1,6 @@
 # 15-Puzzle Solver Readme
+[More details here.]("instructions.pdf")
+
 There are two main files: `solver.py` and `generate_output.py`.
 
 ## Prerequisites
